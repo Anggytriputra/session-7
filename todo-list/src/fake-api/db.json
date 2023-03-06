@@ -1,0 +1,37 @@
+{
+  "todo": [
+    {
+      "activity": "Makan",
+      "id": 1
+    },
+    {
+      "activity": "Mandi",
+      "id": 2
+    },
+    {
+      "activity": "Coding",
+      "id": 3
+    },
+    {
+      "activity": "tidur",
+      "id": 4
+    },
+    {
+      "activity": "Rebahan",
+      "id": 5
+    },
+    {
+      "activity": "Design",
+      "id": 6
+    },
+    {
+      "activity": "Programming",
+      "id": 7
+    },
+    {
+      "activity": "",
+      "id": 8
+    }
+  ],
+  "users": []
+}
